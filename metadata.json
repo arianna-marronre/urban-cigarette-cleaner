@@ -1,0 +1,6 @@
+{
+  "name": "EV3 Vision Commander",
+  "description": "Real-time AI object detection and semantic segmentation for cigarette butts using U-Net, with LEGO EV3 robot control via Web Serial API.",
+  "requestFramePermissions": ["camera", "serial"],
+  "majorCapabilities": []
+}
